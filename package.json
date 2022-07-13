@@ -4,7 +4,7 @@
   "description": "A Twitter bot application in nodejs.",
   "main": "index.js",
   "scripts": {
-    "start": "index.js"
+    "start": "node index.js"
   },
   "author": "Roshan Twanabasu",
   "license": "ISC",
